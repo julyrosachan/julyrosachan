@@ -1,5 +1,5 @@
 ## 🌱 What I'm learning
-- Frontend: HTML, CSS, JavaScript, React.js, React Native
+- Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express, EJS
 - Database: MySQL, MongoDB
 - Programming Languages / Tools: TypeScript
