@@ -56,3 +56,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,angular,anaconda,js,py,react,nextjs,cpp,vite,nodejs,tensorflow,git,figma,bash,vue,mongodb,devto,aws,pytorch" />
+</p> -->
