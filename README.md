@@ -35,8 +35,9 @@
 
 ## Backend:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ejs,nodemon,expressjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,EJS,expressjs" />
 </p> 
+
 ## Database:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
