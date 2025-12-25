@@ -35,7 +35,7 @@
 
 ## Backend:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,EJS,expressjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nodemoon" />
 </p> 
 
 ## Database:
