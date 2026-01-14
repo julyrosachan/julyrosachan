@@ -4,7 +4,7 @@ frontend → backend learner • design lover • building step by step 🌱
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,nodejs,cs,dotnet,mysql,mongodb,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,nodejs,cs,dotnet,mysql,mongodb,git,github,figma,sequelize" />
 </p>
 
 ---
@@ -12,10 +12,10 @@ frontend → backend learner • design lover • building step by step 🌱
 ## 🌱 currently learning
 
 ### frontend focus
-- html5, css3 (responsive layouts, flexbox, grid)
-- javascript & typescript (logic, async stuff)
-- react (components, hooks, state)
-- tailwind / sass / bootstrap (clean ui, fast styling)
+- html5, css3
+- javascript & typescript
+- react
+- tailwind / sass / bootstrap
 
 ### backend basics
 - node.js + ejs
@@ -23,8 +23,8 @@ frontend → backend learner • design lover • building step by step 🌱
 - simple apis & console apps
 
 ### databases
-- mysql (relations, queries)
-- mongodb (collections, basics)
+- mysql
+- mongodb
 - sequelize orm
 
 ---
