@@ -9,7 +9,7 @@ frontend → backend learner • design lover • building step by step 🌱
 
 ---
 
-## 🌱 currently learning
+## 🌱 learning
 
 ### frontend focus
 - html5, css3
