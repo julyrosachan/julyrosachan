@@ -1,4 +1,4 @@
-<h2 align="center">hey, i'm july 👋</h2>
+<h2 align="center">hey, i'm rosa 👋</h2>
 <p align="center">
 frontend → backend learner • design lover • building step by step 🌱
 </p>
