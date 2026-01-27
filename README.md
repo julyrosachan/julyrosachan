@@ -4,7 +4,7 @@ frontend → backend learner • design lover • building step by step 🌱
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cs,dotnet,mysql,mongodb,git,github,sequelize" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,cs,dotnet,mysql,mongodb,git,github,sequelize" />
 </p>
 
 ---
