@@ -25,6 +25,7 @@ frontend → backend learner • design lover • building step by step 🌱
 ### databases
 - mysql
 - mongodb
+- mssql
 - sequelize orm
 
 ---
@@ -37,14 +38,6 @@ i care about **how things look** as much as how they work.
 - adobe illustrator & photoshop
 - affinity designer
 - dribbble for inspiration ✨
-
----
-
-## 🧠 how i learn
-- build small projects
-- break things, then fix them
-- push everything to github
-- consistency > perfection
 
 ---
 
