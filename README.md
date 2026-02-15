@@ -52,6 +52,9 @@ i care about **how things look** as much as how they work.
   <a href="https://www.instagram.com/julyrosachan">
     <img src="https://img.shields.io/badge/instagram-e4405f?style=flat&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/share/1CXh8Kx9LT/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 ---
