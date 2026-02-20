@@ -20,24 +20,13 @@ frontend → backend learner • design lover • building step by step 🌱
 ### backend basics
 - node.js + ejs
 - c# & .net fundamentals
-- simple apis & console apps
 
 ### databases
 - mysql
 - mongodb
 - mssql
-- sequelize orm
 
 ---
-
-## 🎨 design & creative side
-i care about **how things look** as much as how they work.
-
-- figma (ui/ux, wireframes)
-- framer (motion & layout)
-- adobe illustrator & photoshop
-- affinity designer
-- dribbble for inspiration ✨
 
 ---
 
