@@ -12,13 +12,11 @@ frontend → backend learner • design lover • building step by step 🌱
 ## 🌱 learning
 
 ### frontend focus
-- html5, css3
-- javascript & typescript
+- html5, css3, javascript
 - react
 - tailwind / sass / bootstrap
 
 ### backend basics
-- node.js + ejs
 - c# & .net fundamentals
 
 ### databases
